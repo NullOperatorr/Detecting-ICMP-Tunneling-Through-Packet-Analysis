@@ -28,7 +28,6 @@ After reviewing this repository, readers should be able to:
 - Understand how ICMP tunneling works.
 - Identify abnormal ICMP communication patterns.
 - Analyze ICMP payloads in Wireshark.
-- Recognize indicators of covert communication.
 
 ---
 
