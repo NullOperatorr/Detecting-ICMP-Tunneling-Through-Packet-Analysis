@@ -9,6 +9,9 @@ This repository documents the analysis of a packet capture containing an ICMP tu
 The objective is to investigate how ICMP Echo Request and Echo Reply packets are used to transport interactive shell traffic instead of their intended diagnostic purpose.
 
 
+<img width="1132" height="361" alt="image" src="https://github.com/user-attachments/assets/c3e82671-d0c3-49f2-aaa5-cf3e6527cb28" />  
+
+
 
 ---
 
