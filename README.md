@@ -7,7 +7,7 @@ CyberLab-05
 
 This repository documents the analysis of a packet capture containing an ICMP tunneling session. The objective is to investigate how ICMP Echo Request and Echo Reply packets are used to transport interactive shell traffic instead of their intended diagnostic purpose.
 
-The analysis was conducted using Wireshark and focuses on identifying indicators of tunneling, and examining packet contents.
+
 
 ---
 
