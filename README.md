@@ -41,7 +41,7 @@ After reviewing this repository, readers should be able to:
 
 ## Analysis Summary
 
-The packet capture demonstrates ICMP traffic that extends beyond normal network diagnostics. Inspection of packet payloads reveals Metasploit frameworkused, executed commands, and command output transported through ICMP packets.
+The packet capture demonstrates ICMP traffic that extends beyond normal network diagnostics. Inspection of packet payloads reveals Metasploit framework used, executed commands, and command output transported through ICMP packets.
 
 These observations are consistent with an ICMP tunneling scenario in which ICMP Echo Request and Echo Reply messages are used.
 
