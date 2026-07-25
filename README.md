@@ -41,24 +41,11 @@ After reviewing this repository, readers should be able to:
 
 ## Analysis Summary
 
-The packet capture demonstrates ICMP traffic that extends beyond normal network diagnostics. Inspection of packet payloads reveals interactive shell communication, including login prompts, executed commands, and command output transported through ICMP packets.
+The packet capture demonstrates ICMP traffic that extends beyond normal network diagnostics. Inspection of packet payloads reveals Metasploit frameworkused, executed commands, and command output transported through ICMP packets.
 
-These observations are consistent with an ICMP tunneling scenario in which ICMP Echo Request and Echo Reply messages are used as a covert communication channel.
+These observations are consistent with an ICMP tunneling scenario in which ICMP Echo Request and Echo Reply messages are used.
 
-A detailed packet-by-packet investigation is available in:
 
-```
-analysis/findings.md
-```
-
----
-
-## Indicators Observed
-
-- Repeated ICMP Echo Request and Echo Reply messages.
-- Application-layer data embedded within ICMP payloads.
-- Interactive shell commands and command output.
-- Network behavior consistent with protocol tunneling.
 
 ---
 
