@@ -1,4 +1,3 @@
-# Background
 
 ## What is Tunneling?
 
