@@ -17,8 +17,7 @@ The objective is to investigate how ICMP Echo Request and Echo Reply packets are
 - Analyze the packet capture using Wireshark.
 - Identify indicators of ICMP tunneling.
 - Examine ICMP packet payloads for encapsulated data.
-- Investigate the interactive shell traffic carried within ICMP packets.
-- Document the observed findings.
+
 
 ---
 
