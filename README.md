@@ -33,16 +33,10 @@ After reviewing this repository, readers should be able to:
 
 ## MITRE ATT&CK Mapping
 
-| Tactic | Technique | Technique ID |
-|---------|-----------|--------------|
-| Command and Control | Protocol Tunneling | T1572 |
+ Tactic | Technique | ID |
+|---------|-----------|----|
+| Command and Control | Non-Application Layer Protocol | [T1095](https://attack.mitre.org/techniques/T1095/) |
 
-**Observed behavior**
-
-- Large size ICMP Echo Requests and Replies packets.
-- Interactive communication encapsulated within ICMP packets.
-
----
 
 
 ## Analysis Summary
