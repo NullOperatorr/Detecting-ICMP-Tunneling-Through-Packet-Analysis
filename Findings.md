@@ -28,12 +28,6 @@ The capture primarily consists of ICMP Echo Request and Echo Reply packets excha
 
 
 
-**Evidence**
-
-- Repeated ICMP Echo Request and Echo Reply packets.
-- Consistent communication between the same hosts.
-- ICMP used as the primary transport protocol.
-
 ---
 
 ## Phase 2 – Payload Inspection
