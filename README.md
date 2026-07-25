@@ -47,8 +47,5 @@ These observations are consistent with an ICMP tunneling scenario in which ICMP 
 
 
 
----
 
-## Disclaimer
 
-This packet capture is analyzed to demonstrate network traffic analysis techniques and should not be interpreted as guidance for unauthorized activities.
