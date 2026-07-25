@@ -19,15 +19,6 @@ The objective is to investigate how ICMP Echo Request and Echo Reply packets are
 - Examine ICMP packet payloads for encapsulated data.
 
 
----
-
-## Learning Objectives
-
-After reviewing this repository, readers should be able to:
-
-- Understand how ICMP tunneling works.
-- Identify abnormal ICMP communication patterns.
-- Analyze ICMP payloads in Wireshark.
 
 ---
 
@@ -45,6 +36,15 @@ The packet capture demonstrates ICMP traffic that extends beyond normal network 
 
 These observations are consistent with an ICMP tunneling scenario in which ICMP Echo Request and Echo Reply messages are used.
 
+---
+
+## Learning Objectives
+
+After reviewing this repository, readers should be able to:
+
+- Understand how ICMP tunneling works.
+- Identify abnormal ICMP communication patterns.
+- Analyze ICMP payloads in Wireshark.
 
 
 
