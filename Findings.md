@@ -44,6 +44,7 @@ Inspection of the packet payload revealed plaintext information including:
 - Username prompt
 - Command output
 
+You can rview each large packet to verify.
 
 **Evidence**
 
