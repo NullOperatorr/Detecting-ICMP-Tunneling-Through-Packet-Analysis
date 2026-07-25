@@ -82,7 +82,24 @@ The analysis identified the following observations:
 
 ---
 
-# Conclusion
+# Remediation
 
-Based on the packet-level analysis, the captured traffic demonstrates an ICMP tunneling scenario.
+If ICMP tunneling activity is detected, the following response actions are recommended:
 
+1. Identify and isolate the affected host from the network.
+2. Terminate the unauthorized communication channel.
+3. Preserve network logs and packet captures for forensic analysis.
+4. Investigate the compromised endpoint to determine the root cause of the intrusion.
+5. Remove any malicious tools or persistence mechanisms found on the host.
+
+---
+
+# Mitigation
+
+The following security controls can help reduce the risk of ICMP tunneling:
+
+- Restrict ICMP traffic to only the message types required for network operations.
+- Configure firewalls to block or limit unnecessary inbound and outbound ICMP traffic.
+- Monitor for unusually large or frequent ICMP Echo Request and Echo Reply packets.
+- Deploy Network Intrusion Detection/Prevention Systems (NIDS/NIPS) capable of detecting tunneling activity.
+  
