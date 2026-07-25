@@ -71,4 +71,4 @@ analysis/findings.md
 
 ## Disclaimer
 
-This repository is intended for educational purposes and defensive cybersecurity research only. The packet capture is analyzed to demonstrate network traffic analysis techniques and should not be interpreted as guidance for unauthorized activities.
+This packet capture is analyzed to demonstrate network traffic analysis techniques and should not be interpreted as guidance for unauthorized activities.
